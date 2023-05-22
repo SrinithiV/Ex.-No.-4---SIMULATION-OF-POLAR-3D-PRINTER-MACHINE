@@ -32,8 +32,44 @@
 
 ### Assembly of Polar 3D Printer
 
+#### Y-Axis Base : 
+In a Polar 3D printer, the Y-axis base is a circular platform known as the rotary build platform. This platform rotates about a central axis, and the print head moves in the X and Z directions to create the object being printed.
 
+#### Z-Axis Frame : 
+The Z-axis movement is facilitated by the motion of the print head along a vertical column or tower. The print head moves up and down along this column, allowing for the creation of layers in the Z-axis direction.
 
+#### Smooth Rods : 
+Smooth rods are cylindrical rods made of a smooth and rigid material, usually metal, that provide structural support and guidance for the movement of various printer components.
+
+#### Motors : 
+Motors play a crucial role in controlling the movement of various components during the printing process. These motors are responsible for converting electrical energy into mechanical motion, enabling precise positioning and movement of the print head and other printer parts.
+
+#### Extruder Supporter : 
+The 3D extruder is the part of the 3D printer that ejects material in liquid or semi-liquid form in order to deposit it in successive layers within the 3D printing volume.
+
+#### Threaded Rod : 
+A threaded rod is a type of rod that features a spiral groove called a thread along its length. It is commonly used in 3D printers for specific purposes, such as Z-axis movement or bed leveling.
+
+#### Y-Axis Frame : 
+A well-designed and robust Y-axis frame is crucial for achieving accurate prints, minimizing vibrations, and ensuring the overall performance and reliability of a 3D printer. It provides the foundation for the Y-axis assembly and contributes to the quality and consistency of the printed objects.
+
+#### Motor with Gear : 
+Motor with gear refers to a motor that is coupled with a gear mechanism. This combination is commonly used to provide controlled and precise movement in various parts of the printer.
+
+#### Motor-with-Pulley : 
+Motor with pulley refers to a motor that is connected to a pulley system. This combination is used to provide controlled and precise movement in various parts of the printer, typically for belt-driven systems.
+
+#### Gears : 
+Gears are mechanical components that are used to transfer and control motion between different parts of the printer. Gears are typically used in conjunction with motors or other rotational components to achieve precise and synchronized movement.
+
+#### Plate : 
+The use of plates in 3D printing can vary depending on the printer's design and configuration. Different printers may utilize various plate materials, surface treatments, and heating mechanisms to optimize adhesion and print quality.
+
+#### Extruder : 
+The extruder is a critical component responsible for the controlled deposition of filament material during the printing process. It functions by melting the filament and extruding it in a precise manner to build up the layers of the printed object.
+
+#### Filament : 
+Filament is a long, thin strand or thread of material that is fed into the printer's extruder, melted, and then extruded to build up the layers of the printed object.
 
 ### Playing with Axes
 
