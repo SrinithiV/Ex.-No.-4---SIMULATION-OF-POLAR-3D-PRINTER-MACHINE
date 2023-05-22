@@ -32,7 +32,8 @@
 
 ### Assembly of Polar 3D Printer
 
-![Uploading 4.1.png…]()
+
+
 
 #### Y-Axis Base : 
 In a Polar 3D printer, the Y-axis base is a circular platform known as the rotary build platform. This platform rotates about a central axis, and the print head moves in the X and Z directions to create the object being printed.
